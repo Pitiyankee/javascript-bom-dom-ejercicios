@@ -1,6 +1,6 @@
 # BOM y DOM con JavaScript
 
-Prácticas de JavaScript en el navegador: el BOM (`window`, `navigator`, `location`, `history`, almacenamiento, temporizadores) y el DOM (selección, recorrido, creación y modificación de nodos, eventos, formularios).
+Ejercicios de JavaScript en el navegador: el BOM (`window`, `navigator`, `location`, `history`, almacenamiento, temporizadores) y el DOM (selección, recorrido, creación y modificación de nodos, eventos, formularios).
 
 Cada ejercicio es una página HTML con su propio archivo JavaScript.
 
