@@ -1,0 +1,4 @@
+body { font-family: system-ui, sans-serif; margin: 2rem; line-height: 1.5; }
+.nav { background: #eef3fb; padding: .5rem .75rem; border-radius: 6px; }
+.destacado { color: red; }
+li { cursor: pointer; }

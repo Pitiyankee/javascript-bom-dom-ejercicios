@@ -1,0 +1,3 @@
+const n = Number(sessionStorage.getItem("cargas") ?? 0) + 1;
+sessionStorage.setItem("cargas", String(n));
+console.log(n); // 1, 2, 3...
